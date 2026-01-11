@@ -1,0 +1,3 @@
+-- Databases created via Azure Portal
+-- SalesDB
+-- HRDB
